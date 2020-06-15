@@ -1,0 +1,16 @@
+/node_modules
+/skep
+/public/hot
+/public/storage
+
+/public/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/public/images/authentication_certificates/
+/public/images/selfie_verification/
+/storage/*

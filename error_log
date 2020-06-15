@@ -1,0 +1,840 @@
+[27-Apr-2020 11:48:15 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:15 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:15 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:15 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:18 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:18 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:18 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:18 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:25 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:25 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:47 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:47 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:49 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:49 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:51 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 11:48:51 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 15:50:19 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 15:50:19 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 16:46:13 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 16:46:13 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 16:46:33 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 16:46:33 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 16:47:18 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 16:47:18 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 17:37:56 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 17:37:56 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 19:09:07 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[27-Apr-2020 19:09:07 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:33:16 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:33:16 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:36:28 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:36:28 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:36:45 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:36:45 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:54:24 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:54:24 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:25 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:25 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:40 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:40 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:47 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:47 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:51 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:51 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:57 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:55:57 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:56:02 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:56:02 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:56:48 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:56:48 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:56:54 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:56:54 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:57:28 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 19:57:28 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:14:10 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:14:10 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:19:00 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:19:00 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:19:37 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:19:37 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:19:40 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:19:40 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:21:25 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:21:25 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:21:37 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:21:37 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:23:06 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:23:06 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:42:37 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:42:37 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:43:01 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:43:01 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:45:30 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:45:30 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:56:01 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:56:01 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:56:49 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:56:49 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:56:55 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 20:56:55 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:01 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:01 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:01 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:01 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:12 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:12 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:49 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:49 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:55 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:05:55 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:06:30 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:06:30 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:08:23 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:08:23 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:08:36 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:08:36 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:08:47 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:08:47 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:22:32 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:22:32 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:23:12 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:23:12 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:23:23 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:23:23 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:25:24 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:25:24 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:25:27 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:25:27 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:26:32 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:26:32 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:33:00 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:33:00 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:33:16 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:33:16 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:33:16 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 21:33:16 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 23:22:37 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[28-Apr-2020 23:22:37 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[29-Apr-2020 02:51:48 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
+[29-Apr-2020 02:51:48 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Please provide a valid cache path. in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php:36
+Stack trace:
+#0 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php(141): Illuminate\View\Compilers\Compiler->__construct(Object(Illuminate\Filesystem\Filesystem), false)
+#1 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(776): Illuminate\View\ViewServiceProvider->Illuminate\View\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('blade.compiler', Array)
+#4 /home/skephome/public_html/production/vendor/la in /home/skephome/public_html/production/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 36
